@@ -269,5 +269,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 
-[JavaScript]: https://cdn-icons-png.flaticon.com/512/5968/5968292.png
+[JavaScript]: https://img.shields.io/badge/JavaScript-f1c40f?style=for-the-badge&logo=javascript&logoColor=white
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
