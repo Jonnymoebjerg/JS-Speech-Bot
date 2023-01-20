@@ -182,7 +182,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jonny Møbjerg - jonnymoebjerg@gmail.com
+Jonny Møbjerg - jonnymoebjerg@gmail.com - (https://jonnymoebjerg.com)
 
 Project Link: [https://github.com/Jonnymoebjerg/JS-Speech-Bot](https://github.com/Jonnymoebjerg/JS-Speech-Bot)
 
@@ -197,8 +197,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 * [Mohan Raj - Section.io] (https://www.section.io/engineering-education/speech-recognition-in-javascript/))
 * [iamabhishek - Studytonight.com] (https://www.studytonight.com/post/javascript-speech-recognition-example-speech-to-text)
-
-* https://www.section.io/engineering-education/speech-recognition-in-javascript/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
