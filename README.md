@@ -71,7 +71,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -182,7 +181,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jonny Møbjerg - jonnymoebjerg@gmail.com - (https://jonnymoebjerg.com)
+Jonny Møbjerg - https://jonnymoebjerg.com - jonnymoebjerg@gmail.com
 
 Project Link: [https://github.com/Jonnymoebjerg/JS-Speech-Bot](https://github.com/Jonnymoebjerg/JS-Speech-Bot)
 
