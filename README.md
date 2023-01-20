@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">JS Speech Bot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Web based bot, ask it questions, have it do stuff and more.
     <br />
     <a href="https://github.com/Jonnymoebjerg/JS-Speech-Bot"><strong>Explore the docs »</strong></a>
     <br />
@@ -104,7 +104,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
